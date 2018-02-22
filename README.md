@@ -9,3 +9,9 @@
 - StringBuilder</br>
 - DocumentBuilder</br>
 - Locale.Builder</p>
+
+<p><b>Summary:</b></br>
+- Creative way to deal with complexity</br>
+- Easy to implement</br>
+- Few drawbacks</br>
+- Can refactor in with separate class</p>
